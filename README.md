@@ -25,25 +25,10 @@ git clone <repository-url>
 cd pdf-rag
 ```
 
-2. Quick Setup:
+ 
 
-**Windows:**
-```bash
-# Run the setup script
-setup.bat
-```
-
-**Unix/Linux/MacOS:**
-```bash
-# Make setup script executable
-chmod +x setup.sh
-
-# Run the setup script
-./setup.sh
-```
-
-3. Manual Setup (if scripts don't work):
-
+ 
+ 
 **Windows:**
 ```bash
 # Create virtual environment
