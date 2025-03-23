@@ -1,4 +1,4 @@
-# Historical Knowledge Graph RAG System
+#  Knowledge Graph RAG System
 
 A Retrieval-Augmented Generation (RAG) system using Neo4j knowledge graphs and Google's Gemini Pro LLM to query historical data. The system combines graph-based and vector-based retrieval methods for enhanced accuracy.
 
